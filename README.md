@@ -1,5 +1,6 @@
 # ZefianAlfian
-
+Hi, I'm Rizqi, My Full Name Is Muhammad Rizqi Rammadhan, Or you Can call me as Rizqi, I'm an 12 y.o Coder. and I'm still a student at SD Islam Baiturrahim Sampit Kalimantan Tengah
+<br>
 ## &#x1F919; Connect With Me
 [![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/zefian.zefian.98)
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Zefiann)
